@@ -1,0 +1,1 @@
+In this folder all html files resides here.

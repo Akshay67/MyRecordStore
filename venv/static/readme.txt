@@ -1,0 +1,1 @@
+In this folder contain all images, fonts, js, css.
